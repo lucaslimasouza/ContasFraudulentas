@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+import conta.filtro.DataDeAberturaNoMesCorrente;
+import conta.filtro.Filtro;
+import conta.filtro.SaldoMaiorQue500MIl;
+import conta.filtro.SaldoMenorQue100Reais;
+import conta.model.Conta;
+
 
 public class TesteAnaliseDetalhadaDeContas {
 
